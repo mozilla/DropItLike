@@ -58,3 +58,6 @@
 [submodule "occupy.here"]
 	path = occupy.here
 	url = git@github.com:occupyhere/occupy.here.git
+[submodule "iOS-OnionBrowser"]
+	path = iOS-OnionBrowser
+	url = git@github.com:mtigas/iOS-OnionBrowser.git
