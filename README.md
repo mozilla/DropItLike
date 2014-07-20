@@ -18,7 +18,6 @@ Something you'd like to see added?  Want to start a discussion?  You can send us
 * https://prism-break.org/en/
 * https://git-annex.branchable.com
 * https://www.torproject.org/
-* https://crypto.cat/
 * https://www.tacticaltech.org/
 * https://opengarden.com/firechat
 * https://securityinabox.org/en

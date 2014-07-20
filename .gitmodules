@@ -64,3 +64,6 @@
 [submodule "apg"]
 	path = apg
 	url = git@github.com:thialfihar/apg.git
+[submodule "cryptocat"]
+	path = cryptocat
+	url = https://github.com/cryptocat/cryptocat
