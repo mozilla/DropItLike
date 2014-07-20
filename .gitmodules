@@ -28,3 +28,24 @@
 [submodule "IOCipher"]
 	path = IOCipher
 	url = git@github.com:guardianproject/IOCipher.git
+[submodule "OSTel"]
+	path = OSTel
+	url = git@github.com:guardianproject/OSTel.git
+[submodule "documentcloud"]
+	path = documentcloud
+	url = git@github.com:documentcloud/documentcloud.git
+[submodule "text-to-bitmap"]
+	path = text-to-bitmap
+	url = git@github.com:shannonturner/text-to-bitmap.git
+[submodule "pond"]
+	path = pond
+	url = git@github.com:agl/pond.git
+[submodule "GlobaLeaks-0.1"]
+	path = GlobaLeaks-0.1
+	url = git@github.com:globaleaks/GlobaLeaks-0.1.git
+[submodule "android-database-sqlcipher"]
+	path = android-database-sqlcipher
+	url = git@github.com:sqlcipher/android-database-sqlcipher.git
+[submodule "k-9"]
+	path = k-9
+	url = git@github.com:k9mail/k-9.git
