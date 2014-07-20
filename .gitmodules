@@ -61,3 +61,6 @@
 [submodule "iOS-OnionBrowser"]
 	path = iOS-OnionBrowser
 	url = git@github.com:mtigas/iOS-OnionBrowser.git
+[submodule "apg"]
+	path = apg
+	url = git@github.com:thialfihar/apg.git
