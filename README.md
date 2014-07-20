@@ -20,7 +20,6 @@ Something you'd like to see added?  Want to start a discussion?  You can send us
 * https://www.torproject.org/
 * https://crypto.cat/
 * https://www.tacticaltech.org/
-* http://towcenter.org/blog/digital-security-and-source-protection-for-journalists/ | [Gitbook](http://susanemcg.gitbooks.io/digital-security-for-journalists/)
 * https://opengarden.com/firechat
 * https://securityinabox.org/en
 * https://openitp.org/sup/
@@ -34,6 +33,7 @@ Something you'd like to see added?  Want to start a discussion?  You can send us
 ## General journo resources
 * [SaferJourno Toolkit](https://saferjourno.internews.org/) | Internews
 * [CPJ: Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) | Committee to Protect Journalists
+* [Tow Center: Digital Security and Source Protection for Journalists](http://susanemcg.gitbooks.io/digital-security-for-journalists/)
 * [Impunity Index](https://cpj.org/reports/2014/04/impunity-index-getting-away-with-murder.php) | Committee to Protect Journalists
 * [Plan of Action on the Safety of Journalists](http://www.unesco.org/new/en/communication-and-information/freedom-of-expression/safety-of-journalists/un-plan-of-action/) | UN
 * [Frontline Defenders Digital Security](http://frontlinedefenders.org/digital-security)
