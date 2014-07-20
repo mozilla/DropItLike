@@ -1,0 +1,30 @@
+[submodule "letssharebooks"]
+	path = letssharebooks
+	url = git@github.com:marcellmars/letssharebooks.git
+[submodule "securedrop"]
+	path = securedrop
+	url = git@github.com:freedomofpress/securedrop.git
+[submodule "ChatSecureAndroid"]
+	path = ChatSecureAndroid
+	url = git@github.com:guardianproject/ChatSecureAndroid.git
+[submodule "securereader"]
+	path = securereader
+	url = git@github.com:guardianproject/securereader.git
+[submodule "ObscuraCam"]
+	path = ObscuraCam
+	url = git@github.com:guardianproject/ObscuraCam.git
+[submodule "Satori"]
+	path = Satori
+	url = git@github.com:glamrock/Satori.git
+[submodule "Orbot"]
+	path = Orbot
+	url = git@github.com:guardianproject/Orbot.git
+[submodule "kerplapp"]
+	path = kerplapp
+	url = git@github.com:guardianproject/kerplapp.git
+[submodule "PixelKnot"]
+	path = PixelKnot
+	url = git@github.com:guardianproject/PixelKnot.git
+[submodule "IOCipher"]
+	path = IOCipher
+	url = git@github.com:guardianproject/IOCipher.git
