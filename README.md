@@ -6,9 +6,9 @@ Some good software for those concerned about their OPSEC.  Geared towards journa
 Something you'd like to see added?  Want to start a discussion?  You can send us patches, pull requests, or open up an issue right here.
 
 ####Panel:
-Barton Gellman, Washington Post, [@bartongellman](https://twitter.com/bartongellman)
-Harlo Holmes, NYTimes + Guardian Project, [@harlo](https://twitter.com/harlo)
-Aurelia Moser, Ushahidi + Internews-KE, [@auremoser](https://twitter.com/auremoser)
+* [Barton Gellman](https://github.com/b4rton), The Washington Post, [@bartongellman](https://twitter.com/bartongellman)  
+* [Harlo Holmes](https://github.com/harlo), NYTimes + Guardian Project, [@harlo](https://twitter.com/harlo)  
+* [Aurelia Moser](https://github.com/auremoser), Ushahidi + Internews-KE, [@auremoser](https://twitter.com/auremoser)
 
 ####Link: 
 <http://www.hope.net/schedule.html#dropitlike>
