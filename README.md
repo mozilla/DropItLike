@@ -20,4 +20,6 @@ Something you'd like to see added?  Want to start a discussion?  You can send us
 * http://piratebox.aod-rpg.de/dokuwiki/doku.php/start
 * http://daviddarts.com/piratebox-diy-openwrt/
 * http://librarybox.us/
+* https://storymaker.cc/lessons/?Nav=/2&Lang=en
+* https://saferjourno.internews.org/
 
