@@ -49,3 +49,12 @@
 [submodule "k-9"]
 	path = k-9
 	url = git@github.com:k9mail/k-9.git
+[submodule "tabula"]
+	path = tabula
+	url = git@github.com:jazzido/tabula.git
+[submodule "RedPhone"]
+	path = RedPhone
+	url = git@github.com:WhisperSystems/RedPhone.git
+[submodule "occupy.here"]
+	path = occupy.here
+	url = git@github.com:occupyhere/occupy.here.git
