@@ -22,6 +22,7 @@ None of these tools are magic.  None of these tools, in and of themselves, will 
 
 * https://prism-break.org/en/
 * https://git-annex.branchable.com
+* https://panicbutton.io/
 * https://www.torproject.org/
 * https://www.tacticaltech.org/
 * https://opengarden.com/firechat
