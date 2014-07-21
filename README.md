@@ -5,10 +5,13 @@ Some good software for those concerned about their OPSEC.  Geared towards journa
 
 Something you'd like to see added?  Want to start a discussion?  You can send us patches, pull requests, or open up an issue right here.
 
-##A Note of Caution
+##A Note of Caution (theory)
 None of these tools are magic.  None of these tools, in and of themselves, will make you safer.  "Safer" is not a thing you can download; "safer" is a set of standards you hold yourself to, and every time you learn something new, your standards are set higher.  In our talk (7/20/14) we hoped to impart this message to you.  If you're just coming to this repo via twitter or word-of-mouth (good for you! ~waves hello~) please take the time to read some of the links/literature we've posted in this REAMDE first, especially those by the researchers at the Tow Center, Internews, CPJ, and Tactical Tech.  You will not regret it.
 
 @thegrugq rightfully points this out [here] (https://twitter.com/thegrugq/statuses/491032144039260160)
+
+##A Note of Caution (praxis)
+Our aim is to inform you and to give you a chance to explore your options.  We chose to present these options as a repository, intentionally, rather than a typical link dump or .zip full of warez.  By choosing to interact with any of these tools at this level, you are entering into the living, breathing processes of development.  You're not a user-- you're a contributor.
 
 ####Panel:
 * [Barton Gellman](https://github.com/b4rton), The Washington Post, [@bartongellman](https://twitter.com/bartongellman)  
