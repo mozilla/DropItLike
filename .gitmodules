@@ -67,3 +67,6 @@
 [submodule "cryptocat"]
 	path = cryptocat
 	url = https://github.com/cryptocat/cryptocat
+[submodule "PanicButton"]
+	path = PanicButton
+	url = git@github.com:iilab/PanicButton.git
