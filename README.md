@@ -14,11 +14,11 @@ None of these tools are magic.  None of these tools, in and of themselves, will 
 Our aim is to inform you and to give you a chance to explore your options.  We chose to present these options as a repository, intentionally, rather than a typical link dump or .zip full of warez.  By choosing to interact with any of these tools at this level, you are entering into the living, breathing processes of development.  You're not a user-- you're a contributor.
 
 ####Panel:
-* [Barton Gellman](https://github.com/b4rton), The Washington Post, [@bartongellman](https://twitter.com/bartongellman)  
-* [Harlo Holmes](https://github.com/harlo), NYTimes + Guardian Project, [@harlo](https://twitter.com/harlo)  
+* [Barton Gellman](https://github.com/b4rton), The Washington Post, [@bartongellman](https://twitter.com/bartongellman)
+* [Harlo Holmes](https://github.com/harlo), NYTimes + Guardian Project, [@harlo](https://twitter.com/harlo)
 * [Aurelia Moser](https://github.com/auremoser), Ushahidi + Internews-KE, [@auremoser](https://twitter.com/auremoser)
 
-####Link: 
+####Link:
 <http://www.hope.net/schedule.html#dropitlike>
 
 ## Other links that can't be submoduled
@@ -38,10 +38,11 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * https://storymaker.cc/lessons/?Nav=/2&Lang=en
 * https://www.thinkpenguin.com/
 
-## General journo resources
+## General Journo Resources
 * [SaferJourno Toolkit](https://saferjourno.internews.org/) | Internews
 * [CPJ: Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) | Committee to Protect Journalists
 * [Tow Center: Digital Security and Source Protection for Journalists](http://susanemcg.gitbooks.io/digital-security-for-journalists/)
+* [HackBack Guide to Whistleblower Protection](http://pastebin.com/raw.php?i=cRYvK4jb)
 * [Impunity Index](https://cpj.org/reports/2014/04/impunity-index-getting-away-with-murder.php) | Committee to Protect Journalists
 * [Plan of Action on the Safety of Journalists](http://www.unesco.org/new/en/communication-and-information/freedom-of-expression/safety-of-journalists/un-plan-of-action/) | UN
 * [Frontline Defenders Digital Security](http://frontlinedefenders.org/digital-security)
