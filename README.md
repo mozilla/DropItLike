@@ -39,6 +39,7 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * https://www.thinkpenguin.com/
 
 ## General Journo Resources
+* [Security Showcase by Github](https://github.com/showcases/security)
 * [SaferJourno Toolkit](https://saferjourno.internews.org/) | Internews
 * [CPJ: Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) | Committee to Protect Journalists
 * [Tow Center: Digital Security and Source Protection for Journalists](http://susanemcg.gitbooks.io/digital-security-for-journalists/)
