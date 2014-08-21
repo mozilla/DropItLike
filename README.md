@@ -39,6 +39,8 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * https://www.thinkpenguin.com/
 
 ## General Journo Resources
+* [Source Guide to Opsec: Part](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
+* [Source Guide to OpSec: Part 2](https://source.opennews.org/en-US/learning/security-journalists-part-two-threat-modeling/)
 * [Security Showcase by Github](https://github.com/showcases/security)
 * [SaferJourno Toolkit](https://saferjourno.internews.org/) | Internews
 * [CPJ: Journalist Security Guide](https://cpj.org/reports/2012/04/journalist-security-guide.php) | Committee to Protect Journalists
