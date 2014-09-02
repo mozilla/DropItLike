@@ -37,6 +37,7 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * http://librarybox.us/
 * https://storymaker.cc/lessons/?Nav=/2&Lang=en
 * https://www.thinkpenguin.com/
+* https://www.mailvelope.com/
 
 ## General Journo Resources
 * [Source Guide to Opsec: Part](https://source.opennews.org/en-US/learning/security-journalists-part-one-basics/)
