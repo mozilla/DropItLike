@@ -5,6 +5,9 @@ Some good software for those concerned about their OPSEC.  Geared towards journa
 
 Something you'd like to see added?  Want to start a discussion?  You can send us patches, pull requests, or open up an issue right here.
 
+###Threat Reporting
+Threats emerge, bugs are discovered, everywhere, and all the time.  We now include a document, [ThreatReporting.md] (https://github.com/mozilla/DropItLike/blob/master/ThreatReports.md), to address issues as we find out about them.  We encourage you to add to this, too, and help research better ways of aggregating and displaying this information. 
+
 ##A Note of Caution (theory)
 None of these tools are magic.  None of these tools, in and of themselves, will make you safer.  "Safer" is not a thing you can download; "safer" is a set of standards you hold yourself to, and every time you learn something new, your standards are set higher.  In our talk (7/20/14) we hoped to impart this message to you.  If you're just coming to this repo via twitter or word-of-mouth (good for you! ~waves hello~) please take the time to read some of the links/literature we've posted in this REAMDE first, especially those by the researchers at the Tow Center, Internews, CPJ, and Tactical Tech.  You will not regret it.
 
