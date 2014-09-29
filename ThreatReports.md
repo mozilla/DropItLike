@@ -8,3 +8,9 @@ This is a space for reporting current bugs effecting projects and software curre
 	Summary: UX misleads users to send encrypted text in-the-clear on some builds.  Development team are aware of the bug, and have fixed it in their nightly builds.  A full fix will be pushed to all distrobutions soon.
 
 	Status: Unresolved
+
+1.	FireChat (reported 7/24/14). [security audit](https://citizenlab.org/2014/07/asia-chats-update-line-kakaotalk-firechat-china/)
+
+	Summary: While not technically a bug, because encryption is outside of the app's feature set, users should NOT mistake mesh networking with encrypted communication.  These two things should, ideally, be implemented together, but FireChat does not currently include encrypted transport or on-device storage.
+
+	Status: Unresolved
