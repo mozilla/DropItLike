@@ -55,4 +55,5 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * [DFAK](https://digitaldefenders.org/digitalfirstaid/) | Digital First Aid Kit
 * [Hacks/Hackers Crypto Guide](https://github.com/hackshackers/hhnyc-crypto/)
 * [Protektor Services Manual](http://protektor-blog.blogspot.com/)
-
+* [GSMA Mobile and Privacy Design Guidelines](http://www.gsma.com/publicpolicy/mobile-and-privacy/design-guidelines)
+* [Beautiful Rising Security Training](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/tree/master/presentations)
