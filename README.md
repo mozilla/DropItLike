@@ -60,6 +60,5 @@ Our aim is to inform you and to give you a chance to explore your options.  We c
 * [Protektor Services Manual](http://protektor-blog.blogspot.com/)
 * [GSMA Mobile and Privacy Design Guidelines](http://www.gsma.com/publicpolicy/mobile-and-privacy/design-guidelines)
 * [Beautiful Rising Security Training](https://github.com/BeautifulTrouble/Beautiful-Rising-Research/tree/master/presentations)
-=======
 * [Bruce Schneier Security Advice and News](https://www.schneier.com/)
 
